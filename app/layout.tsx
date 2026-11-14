@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Kunal's Portfolio",
-  description: "Welcome to Kunal's personal portfolio website showcasing projects and skills.",
+  title: "Kunal | Android & Backend Software Engineer",
+  description: "Android Developer (Kotlin, Jetpack Compose) with 2 live Google Play apps, 1,000+ production screens, and high-scale Spring Boot & Cloud backend systems.",
 };
 
 export default function RootLayout({
